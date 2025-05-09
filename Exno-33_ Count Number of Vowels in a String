@@ -1,4 +1,4 @@
-% 192311268 - P.Ganesh
+% 192311264
 % Count vowels in a string
 
 is_vowel(Char) :-
